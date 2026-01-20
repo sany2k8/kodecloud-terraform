@@ -1,0 +1,5 @@
+# Create a public S3 bucket named nautilus-s3-21273 using Terraform.
+
+- Ensure the bucket is accessible publicly once created by setting the proper ACL.
+
+- The Terraform working directory is /home/bob/terraform. Create the main.tf file (do not create a different .tf file) to accomplish this task.

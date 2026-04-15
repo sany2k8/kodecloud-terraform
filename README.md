@@ -58,6 +58,11 @@ This structure ensures each lab can be executed independently using standard Ter
 
 ---
 
+
+## All labs
+
+![Engineer-Kodekloud-Terraform.png](./Engineer-Kodekloud-Terraform.png)
+
 ## ✅ Completed Labs
 
 1. Create Key Pair Using Terraform
@@ -69,6 +74,16 @@ This structure ensures each lab can be executed independently using standard Ter
 7. Create EC2 Instance Using Terraform
 8. Create AMI Using Terraform
 9. Create EBS Volume Using Terraform
+10. Create EBS Snapshot Using Terraform
+11. Create CloudWatch Alarm Using Terraform
+12. Create DynamoDB Table Using Terraform
+13. Create IAM Group Using Terraform
+14. Create S3 Bucket Using Terraform
+15. Create S3 Bucket with Block Public Access Using Terraform
+16. IAM Setup Using Terraform
+17. Create IAM Policy with Permissions Using Terraform
+18. Create Kinesis Stream Using Terraform
+
 
 ---
 
